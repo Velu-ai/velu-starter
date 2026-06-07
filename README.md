@@ -38,7 +38,3 @@ Run `velu validate` to check your config and content before you push.
 ## Deploy
 
 Push to this repo. Velu rebuilds and redeploys on every push — no extra steps.
-
----
-
-Need help? Visit [getvelu.com](https://getvelu.com).
